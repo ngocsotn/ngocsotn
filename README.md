@@ -22,8 +22,7 @@ I like building small projects, learning new languages and new technologies.
 
 <strong>My school stats</strong>
 
-- Already obtained college degree of Information Technology, conferred by University of Science, VNU-HCM.
-- Currently studying for bachelor's degree of Information Technology at University of Science, VNU-HCM.
+- Currently studying at University of Science, VNU-HCM.
 - GPA: 7.82 / 10.0
 
 <br>
@@ -33,7 +32,6 @@ I like building small projects, learning new languages and new technologies.
   <br>
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ngocsotn&show_icons=true)
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocsotn&layout=compact)
 
 </details>
