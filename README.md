@@ -23,7 +23,7 @@ I like building small projects, learning new languages and new technologies.
 <strong>My school stats</strong>
 
 - Currently studying at University of Science, VNU-HCM.
-- GPA: 7.82 / 10.0
+- GPA: 8.52 / 10.0
 
 <br>
 
