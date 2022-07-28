@@ -49,11 +49,12 @@ I like building small projects, learning new languages and new technologies.
 
 
 <details>
-  <strong>My school stats</strong>
+<summary><strong>My school stats</strong></summary>
 
   - Already graduated in April 2022, from University of Science (Hochiminh city, Vietnam).
   - GPA: 8.52 / 10.0
-<details>
+  
+</details>
 
 
 <br>
