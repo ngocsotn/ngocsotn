@@ -35,14 +35,8 @@ I like building small projects, learning new languages and new technologies.
 <br>
 
 
-<details>
-  <summary> <strong>My github stats</strong> </summary>
-  <br>
-
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ngocsotn&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocsotn&layout=compact)
-
-</details>
+My portfolio:
+https://ngocsotn.com
 
 
 <br>
