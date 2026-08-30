@@ -1,6 +1,6 @@
 ## Hello there, i'm Ngoc! 👋
 
-I like building small projects, learning new languages and new technologies.
+A Software Engineer with 4.5 years of experience, primarily focused on backend development and cloud-based systems. Experienced in designing and building REST APIs, real-time communication flows, and backend services with an emphasis on clean, maintainable code and consistent system improvement through refactoring. I enjoy understanding how systems work beyond individual features and continuously improving them for better reliability, scalability, and long-term maintainability. Currently, I am looking to deepen my expertise in DevOps and cloud infrastructure, with a stronger focus on designing systems that are not only functional, but also reliable and scalable in production. Outside of work, I enjoy building practical personal projects and experimenting with new technologies that solve real problems in my daily life, which keeps me motivated to learn and grow as an engineer.
 
 <i>I have used:</i>
 
