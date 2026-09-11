@@ -6,23 +6,21 @@ A Software Engineer with 4.5 years of experience, primarily focused on backend d
 
 <p>
 
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
-<img width=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height=30 src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img width=24 src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+<img width=24 src="https://explore-feed.github.com/topics/nestjs/nestjs.png">
 
 </p>
 
-
 <br>
-
 
 <strong>Some facts about me</strong>
 
@@ -31,25 +29,20 @@ A Software Engineer with 4.5 years of experience, primarily focused on backend d
 - Sometimes, i go to hackerrank and leetcode to solve some problems. 🦧
 - Beside learning new techniques on devto and some youtube channels, i also watching movies and anime series in my spare time. 🎬
 
-
 <br>
-
 
 My portfolio:
 
-[ngocsotn.com](https://ngocsotn.com){:target="_blank"}
+<a href="https://ngocsotn.com" target="_blank">ngocsotn.com</a>
 
 <br>
-
 
 <details>
 <summary><strong>My school stats</strong></summary>
 
-  - Already graduated in April 2022, from University of Science (Hochiminh city, Vietnam).
-  - GPA: 8.52 / 10.0
-  
+- Already graduated in April 2022, from University of Science (Hochiminh city, Vietnam).
+- GPA: 8.52 / 10.0
+
 </details>
 
-
 <br>
-
