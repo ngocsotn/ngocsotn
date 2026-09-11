@@ -37,7 +37,7 @@ A Software Engineer with 4.5 years of experience, primarily focused on backend d
 
 My portfolio:
 
-<a href="https://ngocsotn.com/" target="_blank">https://ngocsotn.com</a>
+[ngocsotn.com](https://ngocsotn.com){:target="_blank"}
 
 <br>
 
