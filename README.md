@@ -10,35 +10,44 @@ My portfolio:
 
 #### Languages
 
+<p>
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="typescript">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" alt="javascript">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="python">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/lua/lua-original.svg" alt="lua">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/go/go-original.svg" alt="go">
+</p>
 
 #### Backend
 
+<p>
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="nodejs">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" alt="nestjs">
 <img height="28" src="https://img.icons8.com/color/1200/express-js.jpg" alt="express">
 <img height="28" src="https://github.com/typeorm/typeorm/raw/master/resources/typeorm-logo-colored-light.png" alt="typeorm">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" alt="prisma">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/socketio/socketio-original.svg" alt="socketio">
+</p>
 
 #### Frontend
 
+<p>
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="react">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sass/sass-original.svg" alt="sass">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss">
+</p>
 
 #### Database
 
+<p>
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="mysql">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="postgresql">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="redis">
+</p>
 
 #### Infrastructure / Observability / DevOps
 
+<p>
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/debian/debian-original.svg" alt="debian">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" alt="linux">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bash/bash-original.svg" alt="bash">
@@ -50,15 +59,19 @@ My portfolio:
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jaegertracing/jaegertracing-original.svg" alt="jaegertracing">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/grafana/grafana-original.svg" alt="grafana">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ansible/ansible-original.svg" alt="ansible">
+</p>
 
 #### Version Control / Git repository hosting
 
+<p>
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="git">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/gitlab/gitlab-original.svg" alt="gitlab">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" alt="github">
+</p>
 
 #### Others
 
+<p>
 <img height="28" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50f7cBEosaN27GfAbb5kMRedQdfd9KnMlrTkqr5qLMg&s=10" alt="NSIS">
 <img height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" alt="langchain">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" alt="vscode">
@@ -66,6 +79,7 @@ My portfolio:
 <img height="28" src="https://images.seeklogo.com/logo-png/53/2/apidog-logo-png_seeklogo-537308.png" alt="apidog">
 <img height="28" src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" alt="dbgate">
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dbeaver/dbeaver-original.svg" alt="dbeaver">
+</p>
 
 <br>
 
