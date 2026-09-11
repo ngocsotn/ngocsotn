@@ -91,7 +91,7 @@ My portfolio:
 - I exercise a lot and focus mostly on Street Workout and Calisthenics on weekends. 🏃🏼
 - Sometimes, i go to leetcode to solve some problems. 🦧
 - Beside learning new techniques on devto and some youtube channels, i also watching movies and anime series in my spare time. 🎬
-- I like to build some that help myself in daily life, like a Home server, a NAS self build from hardware to software, build some app help my daily usages, example an app that track things I interested in (Gold, Forex...etc..) 💸
+- I enjoy building practical solutions for my everyday life — from setting up my own home server and self-built NAS to developing personal tools for tracking and monitoring things I’m interested in, such as gold and foreign exchange markets. 💸
 
 <br>
 
